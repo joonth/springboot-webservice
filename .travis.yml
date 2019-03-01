@@ -31,5 +31,5 @@ deploy:
     acl: public_read
     wait-until-deployed: true
     on:
-      repo: https://github.com/joonth/springboot-webservice
+      repo: joonth/springboot-webservice
       branch: master
